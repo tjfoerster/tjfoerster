@@ -1,6 +1,6 @@
 - 👋 Hello World. My name is Timon Förster.
 - 🎓 I'm studying economics and computer science at the University of Leipzig.
-- 🌐 You can find my personal website at about.webfoerster.de
+- 🌐 You can find my personal website at [about.webfoerster.de](https://about.webfoerster.de)
 - 📫 Send me an email to timon.dienst@webfoerster.de
 
 <!---
